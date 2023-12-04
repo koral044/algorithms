@@ -1,0 +1,4 @@
+Sorting testarr1 using heapsort took: 878 microseconds.
+Sorting testarr1 using radixSort took: 362 microseconds.
+Sorting testarr1 using insertionSort took: 15 microseconds.
+Sorting testarr1 using quicksort took: 22928 microseconds.
